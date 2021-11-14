@@ -1,0 +1,40 @@
+body {
+        font-family: Nunito, sans-serif;
+        font-weight: 400;
+        font-size: 14pt;
+    margin: auto;
+    max-width:900px;
+        padding-left: 1em;
+        padding-right: 1em;
+    width: 100%;
+}
+
+h1 {
+        font-size: 200%;
+}
+
+h2 {
+        font-size: 167%;
+}
+
+h2 {
+        font-size: 133%;
+        font-weight: normal;
+}
+
+a {
+        text-decoration: none;
+        font-weight: bold;
+    margin-left: -1.5em;
+}
+
+a::before {
+    content: "âž¤";
+    margin-right: 0.5em;
+}
+
+a[href^="http"]::before { content: "â˜…"; margin:right: 0.9em; }
+
+details a {
+    margin-left: 0em;
+}
