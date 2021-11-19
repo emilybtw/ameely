@@ -48,13 +48,3 @@ pre { font-family: monospace;
 img { max-width: 100%; }
 
 
-body {background: #280000; color: #ef8181; }
-blockquote { color: #ffb4aa; }
-p { color: #ef8181; }
-pre { color: #ffb4aa; }
-a { color: #ffd1d1; }
-a:hover { color: #c47f7f; }
-h1 { color: #ffe7e5; }
-h2 { color: #f2d2d2; }
-h3 { color: #efcdcb; }
-h4 { color: #280000; }
