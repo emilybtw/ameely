@@ -15,7 +15,7 @@ h2 { font-size: 162%; }
 h3 { font-size: 130%; }
 h4 { font-size: 90%; }
 a { font-weight: bold; 
-    margin-left: -0.1em;
+    margin-left: 0.01em;
     text-decoration: none; }
 a::before { margin-right: 0.1em; }
 p, ul { margin-left: 0.1em; }
