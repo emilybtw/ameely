@@ -48,6 +48,12 @@ pre { font-family: monospace;
     overflow: auto; }
 img { max-width: 100%; }
 
+body { background: #dadada; }
+p { color: black; }
+blockquote { color: black; }
+pre { color: black; }
+a { color: #7c7c7c; }
+a:hover { color: #db9999; }
 
 .header { background-color: black;
         width: 100%;
